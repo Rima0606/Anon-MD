@@ -102,7 +102,7 @@ npm start
 ---------
 
 
-##IF YOU WANT TO RUN MANUAL
+## IF YOU WANT TO RUN MANUAL
 
 ``` bash
 node .
