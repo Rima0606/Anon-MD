@@ -88,7 +88,7 @@ npm update
 ---------
 
 
-##CHANGE THE OWNER NUMBER
+## CHANGE THE OWNER NUMBER
 edit on config.js
 
 ---------
