@@ -38,7 +38,7 @@ pkg install python3 -y
 pkg install nodejs -y
 pkg install ffmpeg -y
 pkg install imagemagick -y
-git clone https://github.com/
+git clone https://github.com/hilmifaturahman/Anon-MD
 cd Anon-MD
 pkg install yarn
 yarn install
@@ -56,7 +56,7 @@ sudo apt-get install python3 -y
 sudo apt-get install nodejs -y
 sudo apt-get install ffmpeg -y
 sudo apt-get install imagemagick -y
-git clone https://github.com/
+git clone https://github.com/hilmifaturahman/Anon-MD
 cd Anon-MD
 sudo-apt get install yarn
 yarn install
